@@ -29,7 +29,7 @@ const removeNomination = (nomination) => {
 
 
 useEffect(() => {
-  axios.get(`http://www.omdbapi.com/?s=${search}&apikey=ae75158`)
+  axios.get(`http://www.omdbapi.com/?s=${search}&apikey=a8fcbf9d`)
   .then(res => setResults(res.data.Search),
   )
   .catch(err => console.log("Error:", err))
