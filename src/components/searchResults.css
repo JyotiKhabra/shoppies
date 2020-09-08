@@ -1,0 +1,7 @@
+#results {
+  margin: 5vh;
+  padding: 5em;
+  display: inline-flex;
+  justify-content: center;
+  background-color: #f2f3f8;
+}

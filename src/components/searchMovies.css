@@ -1,0 +1,15 @@
+
+#search{
+  padding-bottom: 2vh;
+  padding-top: 3vh;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+#outlined-search{
+  padding: 18px 116px;
+  display: inline-block;
+  margin: 0px auto;
+  width: 250px;
+
+}

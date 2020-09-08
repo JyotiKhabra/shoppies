@@ -1,0 +1,15 @@
+#banner .MuiAlert-filledInfo {
+  color: #fff;
+  font-weight: 400;
+  background-color: #5500ff;
+  font-family: 'Roboto', sans-serif;
+  text-align: center;
+  display: inherit;
+  padding: 0px 0px 30px;
+  font-size: 1.5rem;
+  font-weight: 400;
+  line-height: 0.43;
+  border-radius: 4px;
+  letter-spacing: 0.02em;
+ 
+}

@@ -1,0 +1,15 @@
+.MuiTypography-h6 {
+  font-size: 1.25rem;
+  font-family: "Roboto", "Helvetica", "Arial", sans-serif;
+  font-weight: 500;
+  line-height: 1.6;
+  letter-spacing: 0.008em;
+}
+
+#nominations{
+  margin:5vh;
+  padding: 5em;
+  display: inline-flex;
+  justify-content: center;
+  background-color: #f2f3f8;
+}
