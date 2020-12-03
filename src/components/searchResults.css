@@ -1,7 +1,11 @@
 #results {
   margin: 5vh;
-  padding: 5em;
+  padding: 1em;
   display: inline-flex;
   justify-content: center;
   background-color: #f2f3f8;
+}
+
+.MuiTypography-body1 {
+  font-size: 15px !important;
 }

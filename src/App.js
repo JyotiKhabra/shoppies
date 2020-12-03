@@ -50,6 +50,7 @@ useEffect(() => {
         setSearch={setSearch}
         setResults={setResults}
       />
+      <div className="container">
       <SearchResult
         search={search}
         results={results}
@@ -62,6 +63,7 @@ useEffect(() => {
         setNominated={setNominated}
         removeNomination={removeNomination}
       />
+      </div>
     </div>
   );
 }
